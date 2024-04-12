@@ -1,1 +1,2 @@
-DO NOT REDISTRIBUTE CODE THIS IS COMPLETE NOR IN A FINISHED STATE
+everyone reading this should know i have the right to discontinue it at anytime and that i have a life outside of updating this. 
+hope you enjoy using the macro, also dont remove any of these files if you want the macro to still work ykykyk
