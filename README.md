@@ -1,4 +1,4 @@
-# Disclaimer: I have the right to stop updating this whenever I want, though I will probably update it for a little while longer.<br />
+# Disclaimer: I have the right to stop updating this whenever I want, though I will probably update it for a while longer.<br />
 # Eggheads Macro<br />
 An Ahk Macro for visionism<br />
 Must have AutoHotKey Version 1 for this to work<br />
