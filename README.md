@@ -16,3 +16,6 @@ Sadly graphics design is not my passion so you just have to live with the shitty
 # Credits:<br />
  Scripting: Egghead A.K.A piratetigarrr on discord<br />
  Everything else: also me<br />
+# Virus Total: <br />
+ Here it is so you can decide for yourself if you trust it or not <br />
+https://www.virustotal.com/gui/file/db6298969d71db4fddd0185caebe96b50b3f7be8f39f27e30ccf4705065cfec6?nocache=1 <br />
