@@ -2,7 +2,7 @@
 # Eggheads Macro<br />
 An Ahk Macro for visionism<br />
 Must have AutoHotKey Version 1 for this to work<br />
-
+Sadly graphics design is not my passion so you just have to live with the shitty gui<br />
 
 # Instructions:<br />
  Once downloaded open the file and open the exe, this should show a gui from there just click on whatever you want to do<br />
