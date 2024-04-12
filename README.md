@@ -1,7 +1,8 @@
+# Disclaimer: I have the right to stop updating this whenever I want, though I will probably update it for a little while longer.<br />
 # Eggheads Macro<br />
 An Ahk Macro for visionism<br />
 Must have AutoHotKey Version 1 for this to work<br />
-Disclaimer: I have the right to stop updating this whenever I want, though I will probably update it for a little while longer.<br />
+
 
 Instructions:
  Once downloaded open the file and open the exe, this should show a gui from there just click on whatever you want to do<br />
